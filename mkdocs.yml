@@ -1,0 +1,13 @@
+site_name: Ussop
+site_url: https://github.com/felipemessi/ussop
+repo_name: felipemessi/ussop
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/ussop.jpg
+  favicon: assets/ussop.jpg
+  
+extra_css:
+  - stylesheets/extra.css
